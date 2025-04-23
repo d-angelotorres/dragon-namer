@@ -2,6 +2,8 @@
 
 Welcome to the Dragon Namer! This fun web app allows you to generate Game of Thrones-inspired dragon names based on real names.
 
+🔗 [**Live Demo**](https://d-angelotorres.github.io/dragon-namer/)
+
 ## Features
 
 - **Input a Name**: Enter a name you wish to honor in dragon form.
