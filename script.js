@@ -10,7 +10,7 @@ function generateDragonName() {
   
     // Dragonize the name
     let dragonName = dragonizeName(name);
-    let lore = `This dragon is bound to honor the name ${name}, and carries the legacy of its origin.`;
+    let lore = `This dragon is bound to honor the name ${name}, and carry the legacy of its origin.`;
   
     // Update the UI with the generated dragon name and lore
     document.getElementById("dragon-name").innerText = `Your dragon's name shall be: ${dragonName} 🐉`;
